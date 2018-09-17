@@ -1,0 +1,11 @@
+css code .su-box {
+margin: 0 0 1.5em 0;
+Border-width: 0px !important;
+border-style: solid;
+}
+[class*="su-column"]+[class*="su-column"]:last-child {
+float: left !important;
+}
+.su-row .su-column {
+margin: 0 0 0 0% !important;
+}
