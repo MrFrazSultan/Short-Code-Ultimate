@@ -1,17 +1,13 @@
 [su_row][su_column size="1/2" center="no" class=""][su_box title="Pros" box_color="#00bf08" title_color="#FFFFFF"]
-
-[su_list icon="icon: thumbs-o-up" icon_color="#00bf08"]
-
-This bike provides all required parts to assemble this bike without having any assemble frustration.
-It is a durable bike with sturdy frame and lightweight.
-There is a shifter to shift speed in order to move faster and smoother.
-Reliable tires and rims.
+[su_list icon="icon: check"]
+• List item
+• List item
+• List item
 [/su_list]
-
 [/su_box][/su_column] [su_column size="1/2" center="no" class=""][su_box title="Cons" box_color="#bf000a" title_color="#FFFFFF"]
-[su_list icon="icon: thumbs-o-down" icon_color="#bf000a"]
-
-But the brake levers are hard to reach from the drop bars.
-And, the seat is very narrow which is not too much comfortable.
+[su_list icon="icon: ban"]
+• List item
+• List item
+• List item
 [/su_list]
 [/su_box][/su_column][/su_row]
